@@ -23,7 +23,7 @@ Worked as a student teaching assistant for the course ENGG1330, conducted tutori
 
 ## Research assistant
 HKU AIoT Lab | 2023.06 -  
-Worked as research assistant in the lab, helped developing a acoustic breathe sensing model, VeCare.  
+Working as research assistant in the lab, help developing a acoustic breathe sensing model, VeCare.  
 
 # Awards
 1. 2021.09, HKU Foundation entrance scholarship, HKU   
