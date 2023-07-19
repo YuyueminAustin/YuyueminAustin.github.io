@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yu Yuemin's personal website!
+Welcome to my personal website! I'm Yu Yuemin, an undergraduate student at the Department of Computer Science, Faculty of Engineering, The University of Hong Kong.
