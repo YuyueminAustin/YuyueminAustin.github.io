@@ -26,9 +26,9 @@ HKU AIoT Lab | 2023.06 -
 Worked as research assistant in the lab, helped developing a acoustic breathe sensing model, VeCare.  
 
 # Awards
-2021.09, HKU Foundation entrance scholarship, HKU   
-2021.11, Dean’s Award, Faculty of Engineering, HKU  
-2022.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents   
-2022.10, Member, Team INVENEER, finalist, AWS Educate Business Innovation Competition 2022, AWS HK  
-2022.12, Dean’s Award, Faculty of Engineering, HKU  
+1. 2021.09, HKU Foundation entrance scholarship, HKU   
+2. 2021.11, Dean’s Award, Faculty of Engineering, HKU  
+3. 2022.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents   
+4. 2022.10, Member, Team INVENEER, finalist, AWS Educate Business Innovation Competition 2022, AWS HK  
+5. 2022.12, Dean’s Award, Faculty of Engineering, HKU  
 
