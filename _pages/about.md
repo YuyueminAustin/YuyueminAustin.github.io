@@ -12,8 +12,8 @@ Welcome to my personal website! I'm Yu Yuemin, an undergraduate student at the D
 
 # Education
 The University of Hong Kong  
-BEng(undeclared major), 2021.09-2022.06  
-BEng(ComSc), 2022.06-  
+BEng (undeclared major), 2021.09-2022.06  
+BEng (ComSc), 2022.06-  
 
   
 # Experience
