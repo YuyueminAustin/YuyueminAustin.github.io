@@ -25,9 +25,10 @@ Worked as a student teaching assistant for the course ENGG1330, conducted tutori
 HKU AIoT Lab | 2023.06 -  
 Working as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 # Awards
-1. 2021.09, HKU Foundation entrance scholarship, HKU   
+1. 2021.09, HKU Foundation entrance scholarship  
 2. 2021.11, Dean’s Award, Faculty of Engineering, HKU  
-3. 2022.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents   
+3. 2022.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents (Renewal)  
 4. 2022.10, Member, Team INVENEER, finalist, AWS Educate Business Innovation Competition 2022, AWS HK  
 5. 2022.12, Dean’s Award, Faculty of Engineering, HKU  
+6. 2023.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents (Renewal)  
 
