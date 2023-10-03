@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I'm Yu Yuemin, an undergraduate student at the Department of Computer Science, Faculty of Engineering, The University of Hong Kong.
+Welcome to my personal website! I'm Yu Yuemin, an undergraduate student at the [Department of Computer Science, Faculty of Engineering, The University of Hong Kong](https://www.cs.hku.hk/).
 
 # Education
 The University of Hong Kong  
@@ -22,7 +22,7 @@ Department of Computer Science, HKU | 2022.09 - 11
 Worked as a student teaching assistant for the course ENGG1330, conducted tutorials on a weekly basis, responded to students' questions.
 
 ## Research assistant
-HKU AIoT Lab | 2023.06 -  
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  
 Working as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 # Awards
 1. 2021.09, HKU Foundation entrance scholarship  
