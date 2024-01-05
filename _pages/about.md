@@ -24,7 +24,7 @@ Worked as a student teaching assistant for the course ENGG1330, conducted tutori
 
 ## Research assistant
 [HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 - 12  
-Working as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
+Worked as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 # Awards
 1. 2021.09, HKU Foundation entrance scholarship  
 2. 2021.11, Dean’s Award, [Faculty of Engineering, HKU](https://engg.hku.hk)  
