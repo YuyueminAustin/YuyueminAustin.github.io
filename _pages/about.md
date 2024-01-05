@@ -16,14 +16,14 @@ BEng (undeclared major), 2021.09-2022.06
 BEng (ComSc), 2022.06-  
 
 University of Toronto  
-exchange student
+Exchange student at Faculty of Art & Science, 2024.01 -
 # Experience
 ## Student teaching assistant
 Department of Computer Science, HKU | 2022.09 - 11  
 Worked as a student teaching assistant for the course ENGG1330, conducted tutorials on a weekly basis, responded to students' questions.
 
 ## Research assistant
-[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 - 12
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 - 12  
 Working as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 # Awards
 1. 2021.09, HKU Foundation entrance scholarship  
