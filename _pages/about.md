@@ -17,7 +17,7 @@ BEng (undeclared major), 2021.09-2022.06
 BEng (ComSc), 2022.06-  
 
 University of Toronto St George Campus  
-Exchange student at Faculty of Art & Science, 2024.01 -
+Exchange student at Faculty of Art & Science, 2024.01 - 04
 
 ## Experience
 
