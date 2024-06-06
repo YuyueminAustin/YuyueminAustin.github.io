@@ -28,8 +28,8 @@ Worked as a student teaching assistant for the course ENGG1330, conducted tutori
 
 ### Research assistant
 
-[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 - 12  
-Worked as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -
+Work as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 
 ## Awards
 
