@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf version of my CV is available [here](https://drive.google.com/file/d/1BzefhNtFaCXTzOrAh3iy467Fw4yBbb8u/view?usp=sharing).
+
 ## Education
 
 The University of Hong Kong  
