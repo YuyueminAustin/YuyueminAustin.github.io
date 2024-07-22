@@ -40,7 +40,3 @@ Work as research assistant in the lab, and my research topics include acoustic s
 4. 2022.10, Member, Team INVENEER, finalist, AWS Educate Business Innovation Competition 2022, AWS HK  
 5. 2022.12, Dean’s Award, Faculty of Engineering, HKU  
 6. 2023.08, HKU Undergraduate Entrance Scholarship for Outstanding Academic Talents (Renewal)  
-
-## Personal
-
-I studied at [Shanghai Lansheng Fudan Middle School](https://lansheng.fdfz.cn/), a top school in Shanghai, from 2014 to 2018.
