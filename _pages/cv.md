@@ -42,4 +42,3 @@ Work as research assistant in the lab, and my research topics include acoustic s
 ## Personal
 
 I studied at [Shanghai Lansheng Fudan Middle School](https://lansheng.fdfz.cn/), a top school in Shanghai, from 2014 to 2018.
-
