@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YU YUEMIN'S PERSONAL WEBSITE"
+title                    : "YUEMIN YU'S PERSONAL WEBSITE"
 title_separator          : "-"
-name                     : &name "Yu Yuemin"
+name                     : &name "YUEMIN YU (余越旻)"
 description              : &description "undergraduate student at Department of Computer Science, The University of Hong Kong"
 url                      : https://yuyueminaustin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
