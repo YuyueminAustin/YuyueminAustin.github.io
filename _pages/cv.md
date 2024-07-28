@@ -30,13 +30,13 @@ Worked as a student teaching assistant for the course ENGG1330, conducted tutori
 ### Research assistant
 
 [HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  
-Supervisor: Prof. Chenshu Wu
+Supervisor: Prof. Chenshu Wu  
 Work as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 
 ### Research intern
 
 [The Hu Lab](https://phulab.org) | 2024.06 -  
-Supervisor: Prof. Pingzhao Hu
+Supervisor: Prof. Pingzhao Hu  
 Apply machine learning techniques in interdisciplinary research projects.
 
 ## Awards
