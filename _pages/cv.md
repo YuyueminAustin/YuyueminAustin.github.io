@@ -35,7 +35,7 @@ Work as research assistant in the lab, and my research topics include acoustic s
 
 ### Research intern
 
-[The Hu Lab](https://phulab.org) | 2024.06 -
+[The Hu Lab](https://phulab.org) | 2024.06 -  
 Supervisor: Prof. Pingzhao Hu
 Apply machine learning techniques in interdisciplinary research projects.
 
