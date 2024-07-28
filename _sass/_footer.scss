@@ -21,7 +21,7 @@
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
   // background-color: $lighter-gray;
-  // border-top: 1px solid $light-gray;
+  border-top: 1px solid $light-gray;
 
   footer {
     @include clearfix;
@@ -49,7 +49,7 @@
   .fab,
   .far,
   .fal {
-    color: mix(#fff, $black, 25%);
+    color: mix(#fff, $dark-gray, 25%);
   }
 }
 
