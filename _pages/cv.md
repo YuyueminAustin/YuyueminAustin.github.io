@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of my CV is available [here](https://drive.google.com/file/d/1_Y0bgXsHvQ4Ln8HzurBgTifcG5Q2EL4_/view?usp=sharing).
+A pdf version of my CV is available [here](/files/YUEMIN_YU_CV.pdf).
 
 ## Education
 
