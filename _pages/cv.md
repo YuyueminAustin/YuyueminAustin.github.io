@@ -23,22 +23,22 @@ Exchange student at Faculty of Art & Science, 2024.01 - 04
 
 ## Experience
 
-### Student teaching assistant
-
-Department of Computer Science, HKU | 2022.09 - 11  
-Worked as a student teaching assistant for the course ENGG1330, conducted tutorials on a weekly basis, responded to students' questions.
-
 ### Research assistant
 
-[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  present
 Supervisor: Prof. Chenshu Wu  
 Work as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 
 ### Research intern
 
-[The Hu Lab](https://phulab.org) | 2024.06 -  
+[The Hu Lab](https://phulab.org) | 2024.06 -  09
 Supervisor: Prof. Pingzhao Hu  
 Apply machine learning techniques in interdisciplinary research projects.
+
+### Student teaching assistant
+
+Department of Computer Science, HKU | 2022.09 - 11  
+Worked as a student teaching assistant for the course ENGG1330, conducted tutorials on a weekly basis, responded to students' questions.
 
 ## Awards
 
