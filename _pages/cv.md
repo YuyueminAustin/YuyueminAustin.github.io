@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of my CV is available [here](/files/YUEMIN_YU_CV.pdf).
+A pdf version of my CV is available [here](/files/YUEMIN_YU_CV.pdf). The projects and publication(s) can be 
+found in the navigation bar at the top.
 
 ## Education
 
@@ -41,8 +42,9 @@ Apply machine learning techniques in interdisciplinary research projects.
 
 ## Awards
 
-1. 2021.09 - present, HKU Foundation entrance scholarship  
-2. 2021.09 - 2022.06, Dean’s Award, [Faculty of Engineering, HKU](https://engg.hku.hk)
-3. 2024.02, Mitacs Globalink Research Internship Award Candidate (Western University, Canada)
-4. 2024.03, Exchange Scholarship (jointly-funded by Reaching Out Award and HKU Worldwide Undergraduate Student
-   Exchange Scholarships)
+| Date                  | Award                                                                 |
+|-----------------------|-----------------------------------------------------------------------|
+| 2021.09 - present     | HKU Foundation entrance scholarship                                   |
+| 2021.09 - 2022.06     | Dean’s Award, [Faculty of Engineering, HKU](https://engg.hku.hk)      |
+| 2024.02               | Mitacs Globalink Research Internship Award Candidate (Western University, Canada) |
+| 2024.03               | Exchange Scholarship (jointly-funded by Reaching Out Award and HKU Worldwide Undergraduate Student Exchange Scholarships) |
