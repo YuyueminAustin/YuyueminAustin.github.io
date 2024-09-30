@@ -25,13 +25,13 @@ Exchange student at Faculty of Art & Science, 2024.01 - 04
 
 ### Research assistant
 
-[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  present
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  present  
 Supervisor: Prof. Chenshu Wu  
 Work as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
 
 ### Research intern
 
-[The Hu Lab](https://phulab.org) | 2024.06 -  09
+[The Hu Lab](https://phulab.org) | 2024.06 -  09  
 Supervisor: Prof. Pingzhao Hu  
 Apply machine learning techniques in interdisciplinary research projects.
 
