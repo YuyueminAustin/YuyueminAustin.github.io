@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version of my CV is available [here](/files/YUEMIN_YU_CV.pdf). The projects and publication(s) can be 
-found in the navigation bar at the top.
+You can download a PDF version [here](/files/YUEMIN_YU_CV.pdf), if you wish!  
+The projects and publication(s) can also be found in the navigation bar at the top.
 
 ## Education
 
