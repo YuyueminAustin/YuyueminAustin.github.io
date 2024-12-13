@@ -34,10 +34,4 @@ To support this, all changes to the underlying code appear as a closed issue wit
 1. change the background of the page in _reset.scss
 2. change the font of the page in _reset.scss
 3. added my own page in navigation.yml and _pages
-4. added a widget for visitor IP location in _includes/footer.html, commented out three lines in _footer.scss  
-
-```  html
-/* position: absolute; */
-  /* bottom: 0em; */
-  /* height: auto; */
-```
+4. added a widget for visitor IP location in a new page
