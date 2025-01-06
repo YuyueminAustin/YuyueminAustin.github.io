@@ -14,6 +14,6 @@ I am quite interested in some Computer Science research topics, including
 <span style="color: green"> Artificial Intelligence of Things (AIoT),
 Ubiquitous Computing, Wireless Sensing, Real-world Perception, AI for Science and Healthcare </span>, etc.  
 
-You can find my CV other information about me by clicking the navigation link above, and please
-<span style="color: blue"> feel free </span>
-to contact me if you have any questions or want to discuss some interesting topics!
+You can find my CV other information about me by clicking the navigation link above, 
+<span style="color: blue">and please feel free to contact me </span>
+if you have any questions or want to discuss some interesting topics!
