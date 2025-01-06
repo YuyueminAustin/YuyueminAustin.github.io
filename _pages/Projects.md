@@ -9,13 +9,14 @@ author_profile: true
 
 ### Real-Time Respiration Monitoring and Presence Detection
 
+#### Please refer to the [Projects page](/_pages/Projects.md) for more details.
+
 _July 2023 - Jan. 2024, HKU AIoT Lab_
 
 - A web application which implemented novel acoustic sensing algorithm
 - Provided ubiquitous and non-invasive sensing on breathing and presence based on acoustic signals
 
-_**Please check the [Projects page](/_pages/Projects.md) for more details.**_
----
+***
 
 ### IR-UWB Radar based Breathing Rate Estimation
 
@@ -23,7 +24,7 @@ _Aug. 2023 - Sept. 2023, HKU AIoT Lab_
 
 - Applied algorithms on IR-UWB signals to estimate breathing rate of the user
 
----
+***
 
 ### Geometry Aware Room Impulse Response Generation and Visualization (Ongoing)
 
