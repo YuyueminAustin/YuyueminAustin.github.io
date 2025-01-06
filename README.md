@@ -36,3 +36,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 3. added my own page in navigation.yml and _pages
 4. added a widget for visitor IP location in a new page, /viewers/, not displayed due to rendering problems in firefox
 5. removed Sitemap link in /_includes/footer/custom.html
+6. added hr css in _pages.scss to make it black
+7. used some inline html and css to give colour to text
