@@ -14,6 +14,8 @@ I am quite interested in some Computer Science research topics, including
 <span style="color: green"> Artificial Intelligence of Things (AIoT),
 Ubiquitous Computing, Wireless Sensing, Real-world Perception, AI for Science and Healthcare </span>, etc.  
 
-You can find my CV other information about me by clicking the navigation link above, 
-<span style="color: blue">and please feel free to contact me </span>
+During my undergraduate study, I have been working / have worked under the supervision of [Prof. Chenshu Wu](https://cswu.me) at HKU, and [Prof. Pingzhao Hu](https://phulab.org) at Western University, Canada.
+You can find more details about me by clicking the navigation link above.  
+
+<span style="color: blue">Please feel free to contact me </span>
 if you have any questions or want to discuss some interesting topics!
