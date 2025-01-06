@@ -13,7 +13,7 @@ author_profile: true
 
 _July 2023 - Jan. 2024, HKU AIoT Lab_
 
-<div style="float: right; margin: 0 1em 1em 0;">
+<div style="margin: 0 1em 1em 0;">
     <img src="/images/vecare.png" alt="Respiration Monitoring" width="300">
 </div>
 
