@@ -17,5 +17,5 @@ Ubiquitous Computing, Wireless Sensing, Real-world Perception, AI for Science an
 During my undergraduate study, I have been working / have worked under the supervision of [Prof. Chenshu Wu](https://cswu.me) at HKU, and [Prof. Pingzhao Hu](https://phulab.org) at Western University, Canada.
 You can find more details about me by clicking the navigation link above.  
 
-<span style="color: blue">Please feel free to contact me </span> 👋
+<span style="color: green">Please feel free to contact me </span> 👋
 if you have any questions or want to discuss some interesting topics!

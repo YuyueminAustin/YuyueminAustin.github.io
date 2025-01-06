@@ -17,7 +17,7 @@ _July 2023 - Jan. 2024, HKU AIoT Lab_
 </div>
 
 - A web application which implemented novel acoustic sensing algorithm
-- Provided <span style="color:blue">ubiquitous</span> and <span style="color:green">non-invasive</span> sensing on breathing and presence based on acoustic signals
+- Provided <span style="color:grenn">ubiquitous and non-invasive</span> sensing on breathing and presence based on acoustic signals
 
 ***
 
