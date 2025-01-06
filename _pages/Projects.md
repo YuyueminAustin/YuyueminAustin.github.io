@@ -9,7 +9,7 @@ author_profile: true
 
 ### Real-Time Respiration Monitoring and Presence Detection
 
-#### Please refer to the [Projects page](/_pages/Projects.md) for more details.
+#### Please refer to the [Projects page](/publications) for more details.
 
 _July 2023 - Jan. 2024, HKU AIoT Lab_
 
