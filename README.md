@@ -38,3 +38,4 @@ To support this, all changes to the underlying code appear as a closed issue wit
 5. removed Sitemap link in /_includes/footer/custom.html
 6. added hr css in _pages.scss to make it black
 7. used some inline html and css to give colour to text
+8. removed the footer in _includes/footer.html
