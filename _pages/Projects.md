@@ -9,7 +9,7 @@ author_profile: true
 
 ## Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection
 _Sheng Lyu, Ruiming Huang, Yuemin Yu, Chenshu Wu_  
-Mobisys’ 2024 Demos, DOI: [10.1145/3643832.3661846](https://doi.org/10.1145/3643832.3661846)  
+Mobisys' 2024 Demos, DOI: [10.1145/3643832.3661846](https://doi.org/10.1145/3643832.3661846)  
 [Video Link](https://youtu.be/1bxpXNwHGv0?si=1LY6nf2V-2FU37xz) | [PDF](/files/Lyu%20et%20al.%20-%202024%20-%20Demo%20Statistical%20Acoustic%20Sensing%20For%20Real-Time%20Respiration%20Monitoring%20and%20Presence%20Detection.pdf)
 
 _July 2023 - Jan. 2024, HKU AIoT Lab_
