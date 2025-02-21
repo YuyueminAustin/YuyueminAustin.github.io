@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection
+## [DEMO] Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection
 Sheng Lyu, Ruiming Huang, *Yuemin Yu*, Chenshu Wu  
 _MOBISYS '24: Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services_  
 DOI: [10.1145/3643832.3661846](https://doi.org/10.1145/3643832.3661846)  
@@ -16,10 +16,10 @@ DOI: [10.1145/3643832.3661846](https://doi.org/10.1145/3643832.3661846)
 _July 2023 - Jan. 2024, HKU AIoT Lab_
 
 <div style="margin: 0 1em 1em 0;">
-    <img src="/images/vecare.png" alt="Respiration Monitoring" width="300">
+    <img src="/images/vecare.png" alt="Respiration Monitoring" width="500">
 </div>
 
-- Implemented novel acoustic sensing algorithm
+- Implemented novel acoustic sensing algorithm, leveraged multipath effect in indoor/close cabin envrionments  
 - Provided <span style="color:#ee5f5b">ubiquitous and non-invasive</span> sensing on breathing and presence based on acoustic signals
 
 ***
