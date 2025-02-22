@@ -13,8 +13,7 @@ My current research experience lies in AIoT and Ubiquitous Computing, with a foc
 
 **[[MOBISYS '24 Demo](https://doi.org/10.1145/3643832.3661846)] Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection**  
 Sheng Lyu, Ruiming Huang, **_Yuemin Yu_**, Chenshu Wu  
-_Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services_  
-[Video Link](https://youtu.be/1bxpXNwHGv0?si=1LY6nf2V-2FU37xz) | [PDF](/files/Lyu%20et%20al.%20-%202024%20-%20Demo%20Statistical%20Acoustic%20Sensing%20For%20Real-Time%20Respiration%20Monitoring%20and%20Presence%20Detection.pdf)  
+_Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services_, [Video Link](https://youtu.be/1bxpXNwHGv0?si=1LY6nf2V-2FU37xz) | [PDF](/files/Lyu%20et%20al.%20-%202024%20-%20Demo%20Statistical%20Acoustic%20Sensing%20For%20Real-Time%20Respiration%20Monitoring%20and%20Presence%20Detection.pdf)  
 _July 2023 - Jan. 2024, HKU AIoT Lab_  
 <div style="margin: 1em 1em 1em 1em; text-align:center">
     <img src="/images/vecare.png" alt="Respiration Monitoring" width="500">
