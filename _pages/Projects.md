@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Statistical Acoustic Sensing  
+## 1. Statistical Acoustic Sensing  
 
 Related Publication:
 
@@ -25,7 +25,7 @@ _July 2023 - Jan. 2024, HKU AIoT Lab_
 
 ***
 
-## IR-UWB Radar Sensing
+## 2. IR-UWB Radar Sensing
 
 Related Project:  
 
@@ -37,7 +37,7 @@ _in progress_
 
 ***
 
-## Room Acoustics Modeling
+## 3. Room Acoustics Modeling
 
 Related Project:  
 
