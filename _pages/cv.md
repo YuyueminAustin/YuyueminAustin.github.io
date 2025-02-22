@@ -27,7 +27,7 @@ Exchange student at Faculty of Art & Science, 2024.01 - 04
 
 [HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  present  
 Supervisor: Prof. Chenshu Wu  
-Work as research assistant in the lab, and my research topics include acoustic sensing and UWB radar sensing.
+Work as research assistant in the lab, and my research topics include topics in acoustics and UWB radar sensing.
 
 ### Research intern
 
