@@ -1,15 +1,13 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /Projects/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
 ## 1. Statistical Acoustic Sensing  
-
-Related Publication:
 
 **[[MOBISYS '24 Demo](https://doi.org/10.1145/3643832.3661846)] Statistical Acoustic Sensing For Real-Time Respiration Monitoring and Presence Detection**  
 Sheng Lyu, Ruiming Huang, **Yuemin Yu**, Chenshu Wu  
@@ -27,8 +25,6 @@ _July 2023 - Jan. 2024, HKU AIoT Lab_
 
 ## 2. IR-UWB Radar Sensing
 
-Related Project:  
-
 **IR-UWB Radar based Breathing Rate Estimation**
 _Aug. 2023 - Sept. 2023, HKU AIoT Lab_  
 _in progress_
@@ -38,8 +34,6 @@ _in progress_
 ***
 
 ## 3. Room Acoustics Modeling
-
-Related Project:  
 
 **Geometry Aware Room Impulse Response Generation and Visualization**
 _Sept. 2024 - present, HKU AIoT Lab_  
