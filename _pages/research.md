@@ -38,7 +38,7 @@ _in progress_
 
 **Geometry Aware Room Impulse Response Generation and Visualization**  
 _Sept. 2024 - present, HKU AIoT Lab_  
-_in progress_  
+_in progress, under review_  
 
 - Implementing new generative framework to generate Room Impulse Response
 - Using React to build a frontend for visualization of the generated signals

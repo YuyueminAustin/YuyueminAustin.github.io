@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 You can download a PDF version [here](/files/YUEMIN_YU_CV.pdf), if you wish!  
-The projects and publication(s) can also be found in the navigation bar at the top.
+The projects and publication(s) can also be found in the navigation bar at the top. Here I give a brief introduction to my background and experience.
 
 ## Education
 
