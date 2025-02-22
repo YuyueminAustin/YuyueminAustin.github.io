@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My current research experience lies in AIoT and Ubiquitous Computing, with a focus on analyzing and modelling wireless signals.  I have been working on the following projects:
+My current research experience lies in AIoT and Ubiquitous Computing, with a focus on analyzing and modelling wireless signals.  I have been working on the following areas:
 
 ## 1. Statistical Acoustic Sensing  
 
