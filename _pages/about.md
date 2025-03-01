@@ -9,8 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a PDF version [here](/files/YUEMIN_YU_CV.pdf), if you wish!  
-The projects and publication(s) can also be found in the navigation bar at the top. Here I give a brief introduction to my background and experience.
+You can download a PDF version of my CV [here](/files/YUEMIN_YU_CV.pdf), if you wish!  
+More details on my research projects can be found in the [Research](/research/) section.
+Here I give a brief introduction to my background and experience.
 
 ## Education
 
