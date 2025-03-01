@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-Welcome to my personal website! I'm YUEMIN YU, an undergraduate student at the [Department of Computer Science, School of Computing and Data Science, The University of Hong Kong](https://www.cs.hku.hk/).
+Welcome to my personal page! I'm YUEMIN YU, an undergraduate student at the [Department of Computer Science, School of Computing and Data Science, The University of Hong Kong](https://www.cs.hku.hk/).
 
 I am quite interested in some Computer Science research topics, including 
 <span style="color: green"> Artificial Intelligence of Things (AIoT),
