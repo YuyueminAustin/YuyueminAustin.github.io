@@ -1,18 +1,50 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "About"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
 
-Welcome to my personal website! I'm YUEMIN YU, an undergraduate student at the [Department of Computer Science, School of Computing and Data Science, The University of Hong Kong](https://www.cs.hku.hk/).
+{% include base_path %}
 
-I am quite interested in some Computer Science research topics, including 
-<span style="color: green"> Artificial Intelligence of Things (AIoT),
-Ubiquitous Computing, Wireless Sensing, Real-world Perception and AI for Science and Healthcare</span>. During my undergraduate study, I have been working / have worked under the supervision of [Prof. Chenshu Wu](https://cswu.me) at HKU, and [Prof. Pingzhao Hu](https://phulab.org) at Western University, Canada.  
+You can download a PDF version [here](/files/YUEMIN_YU_CV.pdf), if you wish!  
+The projects and publication(s) can also be found in the navigation bar at the top. Here I give a brief introduction to my background and experience.
 
-More details are available by clicking the links in the navigation bar, and <span style="color: green">please feel free to contact me </span> 👋
-if you have any questions or want to discuss some interesting topics!
+## Education
+
+The University of Hong Kong  
+BEng (undeclared major), 2021.09-2022.06  
+BEng (ComSc), 2022.06-  
+
+University of Toronto St George Campus  
+Exchange student at Faculty of Art & Science, 2024.01 - 04
+
+## Experience
+
+### Research assistant
+
+[HKU AIoT Lab](https://aiot.hku.hk/) | 2023.06 -  present  
+Supervisor: Prof. Chenshu Wu  
+Work as research assistant in the lab, and my research topics include topics in acoustics and UWB radar sensing.
+
+### Research intern
+
+[The Hu Lab](https://phulab.org) | 2024.06 -  09  
+Supervisor: Prof. Pingzhao Hu  
+Apply machine learning techniques in interdisciplinary research projects.
+
+### Student teaching assistant
+
+Department of Computer Science, HKU | 2022.09 - 11  
+Worked as a student teaching assistant for the course ENGG1330, conducted tutorials on a weekly basis, responded to students' questions.
+
+## Awards
+
+| Date                  | Award                                                                 |
+|-----------------------|-----------------------------------------------------------------------|
+| 2021.09 - present     | HKU Foundation entrance scholarship                                   |
+| 2021.09 - 2022.06     | Dean’s Award, [Faculty of Engineering, HKU](https://engg.hku.hk)      |
+| 2024.02               | Mitacs Globalink Research Internship Award Candidate (Western University, Canada) |
+| 2024.03               | Exchange Scholarship (jointly-funded by Reaching Out Award and HKU Worldwide Undergraduate Student Exchange Scholarships) |
