@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YUEMIN YU's Personal Page"
 title_separator          : "-"
 name                     : &name "YUEMIN YU"
-description              : &description "Chinese Characters: 余越旻,\nUndergraduate student at Department of Computer Science, The University of Hong Kong"
+description              : &description "Chinese Characters: 余越旻, Undergraduate student at Department of Computer Science, The University of Hong Kong"
 url                      : https://yuyueminaustin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuyueminAustin.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "YUEMIN YU (余越旻)"
+  name             : "YUEMIN YU"
   avatar           : "me.jpg"
-  bio              : "Computer Science Undergraduate, HKU CDS"
+  bio              : "Chinese character of my name: 余越旻, \nComputer Science Undergraduate, HKU CDS"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
